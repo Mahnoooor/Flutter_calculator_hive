@@ -1,19 +1,18 @@
 # flutter-calculator
-**Preview :**
+A new Flutter project.
 
+## Getting Started
 
-https://user-images.githubusercontent.com/82409174/124909486-bcac6000-dfff-11eb-96ff-641df21570ae.mp4
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
-# Explanation
-A calculator for simple calculations.
-Also you can save some of your calculations in the app or clear your history.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-I will appreciate if you give star to this project.
-The project will progress over the time.
-
-# Resources
-UI from : https://dribbble.com/sujatakushwaha
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
 
 Used packages:
   hive,
